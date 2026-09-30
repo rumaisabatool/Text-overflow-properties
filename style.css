@@ -1,0 +1,27 @@
+div{
+    border: 5px solid black;
+    width: 300px;
+    height: 500px;
+}
+/* p{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+} */
+ /* p{
+    word-wrap: break-word;
+ } */
+  /* p{
+    word-break: break-all;
+  } */
+   /* p{
+    word-break: keep-all;
+   } */
+ /* p{
+    writing-mode: vertical-rl;    
+}  */
+ 
+/* 
+p{
+    word-wrap: break-word;
+} */
